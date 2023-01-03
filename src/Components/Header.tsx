@@ -2,7 +2,7 @@
 export default function Header() {
   return (
     <header>
-      New Sun
+      New Sun a
     </header>
   )
 }
