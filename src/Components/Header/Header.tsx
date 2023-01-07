@@ -1,6 +1,6 @@
-import './style.css'
-import Search from '../../../public/Icons/Search'
-import Logo from '../../../public/Icons/Logo'
+import "./style.css"
+import Search from "../../../public/Icons/Search"
+import Logo from "../../../public/Icons/Logo"
 export default function Header() {
   return (
     <header className='bg-red-strong py-6 px-52 flex justify-between items-center text-white font-bold'>
