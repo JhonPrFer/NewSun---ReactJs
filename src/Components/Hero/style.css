@@ -1,0 +1,9 @@
+.hero {
+  background: url("/public/Images/Hero.png")center/cover no-repeat;
+  height: 800px;
+}
+
+.hero div {
+  box-shadow: -13px 19px 0px #E53A2F; 
+  max-width: 800px;
+}
